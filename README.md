@@ -5,7 +5,7 @@ AnnoncesStaff est une ressource qui permet de faire des annonces ingame pour les
 Ceux qui utilise une base california devrait utiliser le script dans la branch california et non master
 
 # Preview
-En Cours
+https://streamable.com/0hpllp
 
 # Besoin d'aide 
 https://discord.gg/RMNdbb8cvx
