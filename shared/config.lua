@@ -1,5 +1,5 @@
 Config = {
-    ESX = "::{korioz#0110}::esx:getSharedObject", --::{korioz#0110}::esx:getSharedObject si vous utilisez une base california
+    ESX = "esx:getSharedObject", --::{korioz#0110}::esx:getSharedObject si vous utilisez une base california
     Title = "Annonces", --Titre de l'annonce
     Color = "~r~", -- Pour les couleurs https://iqcode.com/code/other/fivem-color-codes
     Time = 10, --Temps en seconde de l'annonce
